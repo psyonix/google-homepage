@@ -9,7 +9,7 @@ Here's Google's version:
 
 Here's what I came up with:
 
-![alt tag](ttps://github.com/psyonix/google-homepage/blob/master/images/google2.png)
+![alt tag](https://github.com/psyonix/google-homepage/blob/master/images/google2.png)
 
 
 - Paul
