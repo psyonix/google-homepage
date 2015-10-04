@@ -1,0 +1,112 @@
+body {
+	background-color: #FFFFFF;
+	margin: 0;
+	overflow-y: hidden;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+.content {
+	position: relative;
+	top: 200px;
+
+
+}
+
+img {
+	height: 92px;
+}
+
+#s_form{
+	position: relative;
+	top: 26px;
+
+}
+.s_button{
+	position: relative;
+	top:23px;
+	color: #000000;
+	background-color: #F2F2F2;
+	border: none;
+	font-family: arial,sans-serif;
+	font-weight: bold;
+	color: #757575;
+}
+#left {
+	position: relative;
+	right: 13px;
+}
+#right {
+	position: relative;
+	left: 13px;
+}
+#search{
+	width: 576px;
+	height: 34px;
+}
+#navbar
+{
+	position: absolute;
+	bottom:0%;
+	height: 50px;
+	width: 100%;
+	background-color: #F2F2F2;
+	line-height: 57px;
+  	
+	
+}
+.n_links_l{
+	position: relative;
+	left: 30px;
+	padding-right: 26px;
+}
+a{
+	text-decoration: none;
+	font-family: arial,sans-serif;
+	color: #757575;
+	font-size: 13px
+
+}
+a, .n_links_r_t {
+	text-decoration: none;
+	font-family: arial,sans-serif;
+	color: #3F3F3F;
+	font-size: 13px
+
+}
+.n_links_r{
+	position: relative;
+	right: 15px;
+	padding-left: 30px;
+	float: right;
+
+}
+.n_links_r_t{
+	position: relative;
+	right: 0px;
+	padding-left: 15px;
+	float: right;
+
+}
+#navbar_top
+{
+	position: absolute;
+	top:0%;
+	height: 50px;
+	width: 100%;
+	line-height: 59px;
+  	
+	
+}
+#l_ui{
+	height: 48px;
+}
+.l_ui{
+	top:6px;
+	position: relative;
+	right: 22px;
+	padding-left: 30px;
+	float: right;
+
+}
